@@ -1,0 +1,32 @@
+#space {
+    background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#BiH {
+    margin-left: 10%;
+}
+
+#hr1 {
+    background-color: black;
+    width: 60px;
+    height: 5px;
+    margin-left: 10%;
+
+}
+
+.gradovi_u_BiH h3 {
+    display: inline-block;  
+    margin: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+#hr {
+    height: 10px;
+    background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
